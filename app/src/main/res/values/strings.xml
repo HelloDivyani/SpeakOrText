@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpeakOrText</string>
+    <string-array name="SelectText">
+        <item>US-English</item>
+        <item>Germany-German</item>
+        <item>CHINA-Chinese</item>
+        <item>Italy-Italian</item>
+        <item>Canada-French</item>
+        <item>FRENCH</item>
+        <item>Korean</item>
+        <item>Japanese</item>
+
+
+    </string-array>
+</resources>
